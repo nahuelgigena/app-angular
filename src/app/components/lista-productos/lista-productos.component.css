@@ -1,0 +1,13 @@
+.productos {
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.producto {
+    width: 19%;
+    margin:5px;
+    border: 1px solid gray;
+}
+.producto img {
+    width: 100%;
+}
